@@ -1,0 +1,99 @@
+body
+{
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color:#66BFBF;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+h3
+{
+  font-family: 'Merriweather', serif;
+  color:#11999E;
+}
+p{
+  font-family: 'Baloo Paaji 2', cursive;
+  font-size: 1.5rem;
+
+
+}
+.sub
+{
+  font-size: 25px;
+}
+.top-container
+{
+  background-color: #d4f8e8;
+  padding-top: 100px;
+  position: relative;
+}
+.top-cloud
+{
+  position: absolute;
+  right:300px;
+  top:50px
+}
+.bottom-cloud
+{
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+.photography{
+  height:220px;
+  width:220px;
+  float:left;
+  margin-right: 30px;
+}
+.gif
+{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.gif2{
+  height:200px;
+  width:200px;
+  float:right;
+  margin-left: 30px;
+
+}
+a{
+  color:#11999E;
+}
+.skill-row
+{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.profilepic
+{
+  height:25%;
+  width:25%;
+}
+hr{
+border-top-style: dotted;
+border-bottom: 0;
+border-left: 0;
+border-right: 0;
+  border-width: thick;
+  border-color:grey;
+ width: 5%;
+
+
+
+}
